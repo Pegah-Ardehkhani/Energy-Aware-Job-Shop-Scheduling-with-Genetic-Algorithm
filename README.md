@@ -12,7 +12,7 @@ A multi-objective optimization system for job shop scheduling that simultaneousl
 - **Machine-specific energy profiles** (idle vs. working power consumption)
 - **Flexible job shop configuration** with precedence constraints
 - **Pareto front visualization** in 2D and 3D
-- **Interactive Gantt chart generation** for schedule visualization
+- **Gantt chart generation** for schedule visualization
 
 ## 📋 Requirements
 

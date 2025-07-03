@@ -1,4 +1,4 @@
-# Energy-Aware Job Shop Scheduling with NSGA-II 🏭 ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Multi-Objective-Energy-Aware-Job-Shop-Scheduling-with-NSGA-II.svg)
+# Energy-Aware Job Shop Scheduling with NSGA-II 🏭 ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Multi-Objective-Energy-Aware-Job-Shop-Scheduling-with-NSGA-II.svg)  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Multi-Objective-Energy-Aware-Job-Shop-Scheduling-with-NSGA-II/blob/main/Multi-Objective%20Energy-Aware%20Job%20Shop%20Scheduling%20with%20NSGA-II.ipynb)
 
 A multi-objective optimization system for job shop scheduling that simultaneously minimizes makespan, energy costs, and tardiness using the NSGA-II (Non-dominated Sorting Genetic Algorithm II) evolutionary algorithm.
 
